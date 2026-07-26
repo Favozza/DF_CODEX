@@ -1,0 +1,31 @@
+name: Build Linux Executable
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Install Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pyinstaller
+
+    - name: Build Linux binary
+      run: |
+        pyinstaller --onefile --noconsole --icon=dftranslogo.ico --add-data "dftranslogo.ico:." --add-data "language_DWARF.txt:." --add-data "language_ELF.txt:." --add-data "language_HUMAN.txt:." --add-data "language_GOBLIN.txt:." DF_Translator.py
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: DF_Translator_Linux
+        path: dist/DF_Translator
