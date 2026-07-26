@@ -77,11 +77,11 @@ Stozukagus
 ```
 
 ## Platform Support
-- **Windows:** Download `DF_Translator_windows.exe` from the releases/repository and double click on it.
+- **Windows:** Download `DF_Translator_windows.exe` from the releases/repository and double-click on it.
 - **Linux:** Download `DF_Translator_linux` binary (built via GitHub Actions). Make sure to give it execution permissions before running:
   ```bash
-  chmod +x DF_Translator
-  ./DF_Translator
+  chmod +x DF_Translator_linux
+  ./DF_Translator_linux
 
 ## Feedback and Bug Reports
 
