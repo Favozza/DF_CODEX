@@ -76,18 +76,12 @@ Goblin:
 Stozukagus
 ```
 
-## Installation
-
-DF Translator is distributed as a standalone Windows executable.
-
-Simply download the latest release and run the `.exe` file.
-
 ## Platform Support
-
-Currently supported:
-Windows
-
-Other platforms are not supported at this time.
+- **Windows:** Download `DF_Translator_windows.exe` from the releases/repository and double click on it.
+- **Linux:** Download `DF_Translator_linux` binary (built via GitHub Actions). Make sure to give it execution permissions before running:
+  ```bash
+  chmod +x DF_Translator
+  ./DF_Translator
 
 ## Feedback and Bug Reports
 
