@@ -56,7 +56,7 @@ English:
 Champions are rewarded by Fortune!
 ```
 
-Dwarf Fortress-style translation:
+DWARF translation:
 
 ```
 akur akir akam
@@ -70,7 +70,7 @@ English:
 Poisoncrazy
 ```
 
-Goblin:
+GOBLIN translation:
 
 ```
 Stozukagus
