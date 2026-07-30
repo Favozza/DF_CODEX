@@ -26,6 +26,11 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
   * Plural forms
   * Autocomplete for special characters and uncommon words
 
+* NEW: a **Kobold and Divine language generator**:
+  * Generates procedurally constructed Kobold and divine language sentences
+  * Based on the official DF structured construction rules
+  * Adjustable sentence length
+
 ## About the Translation System
 
 DF Translator intentionally uses the same limited vocabulary available in Dwarf Fortress. This means:
@@ -45,6 +50,8 @@ The application is designed to be simple:
 No configuration or complicated setup is required.
 
 The special character shortcuts allow you to quickly write words that start with uncommon characters without having to copy them manually. Press the desired character and then press **Tab** to display available words.
+
+You can also switch to the **Kobold** or **Divine** tabs to generate random meaningless sentences.
 
 ## Examples
 
@@ -82,6 +89,7 @@ Stozukagus
   ```bash
   chmod +x DF_Translator_linux
   ./DF_Translator_linux
+  ```
 
 ## Feedback and Bug Reports
 
