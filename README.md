@@ -94,12 +94,12 @@ Stozukagus
 
 ## Platform Support
 
-* **Windows:** Download `DF_Codex_Windows.exe` from the releases page and double-click it.
-* **Linux:** Download the `DF_Codex_Linux` binary (built via GitHub Actions). Make sure to give it execution permissions before running:
+* **Windows:** Download `DF_CODEX_Windows.exe` from the releases page and double-click it.
+* **Linux:** Download the `DF_CODEX_Linux` binary (built via GitHub Actions). Make sure to give it execution permissions before running:
 
 ```bash
-chmod +x DF_Codex_Linux
-./DF_Codex_Linux
+chmod +x DF_CODEX_Linux
+./DF_CODEX_Linux
 ```
 
 ## Feedback and Bug Reports
