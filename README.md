@@ -16,13 +16,14 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
 
 * Translate between fantasy languages directly.
 
+* Red words in the input were words not present in the dictionary and thus not translated.
+
 * Uses the **original in-game dictionaries**, preserving Dwarf Fortress' own limitations and style.
 
 * Correctly handles compound words used in:
   * Surnames
   * Site names
   * Other generated names
-  * Red words in the input were words with no translation
 
 * Supports:
   * English verb conjugations
