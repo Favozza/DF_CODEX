@@ -22,6 +22,7 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
   * Surnames
   * Site names
   * Other generated names
+  * Red words in the input were words with no translation
 
 * Supports:
   * English verb conjugations
