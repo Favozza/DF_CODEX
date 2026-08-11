@@ -80,7 +80,7 @@ Dwarven translation:
 akur akir akam
 ```
 
-### Name Translation
+### Site Translation
 
 English:
 
@@ -92,6 +92,19 @@ Goblin translation:
 
 ```text
 Stozukagus
+```
+
+### Complex Name Translation
+
+English:
+
+```text
+Zimesh Shadowfated the Tenebrous Crypts-Oblivion of Dusks
+```
+
+Human translation:
+```text
+Zimesh Osmanomep Geso Gogol Zitha Disem
 ```
 
 ## Platform Support
