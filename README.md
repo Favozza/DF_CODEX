@@ -2,7 +2,7 @@
 
 A small dictionary-based translation tool for **Dwarf Fortress** languages.
 
-Ever wanted your **songs**, **artifacts**, or **legendary historical figures** to actually sound like they came from the civilization they belong to? **DF CODEX** allows you to translate text between English and the languages of Dwarf Fortress or even between the fantasy languages themselves.
+Ever wanted your **songs**, **artifacts**, or **legendary historical figures** to actually sound like they came from the race they belong to? **DF CODEX** allows you to translate text between English and the languages of Dwarf Fortress or even between the fantasy languages themselves.
 
 ![DF Translator Screenshot](assets/example.png)
 
@@ -32,8 +32,8 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
   * Autocomplete for special characters and uncommon words
 
 * Translate with two modes: **Canon** and **Relaxed**
-  * **Canon** translates the words as they are found, including their conjugations and plurals. It is stricter and finds fewer words.
-  * **Relaxed** translates using a synonym dictionary and allows switching between English and American English. It finds more words, but some translations may be misleading (e.g., "But" translated as "Just", while the DF dictionary has "Just" intended only as in "A just society" and not as in "Just in time").
+  * **Canon** translates the words as they are found, including their conjugations and plurals. It is stricter and finds fewer words. Some words may be directly translated without the correct paraphrases  (e.g. "will" translated as "will" as "the will of the king" and not as "the king will be in the fortress", or "just" translated as "just" as "a just king" and not as "just in time")
+  * **Relaxed** translates using a synonym dictionary and allows switching between English and American English. It finds more words, but some translations may be misleading (e.g., "Baron" translated as "King" because DF dictionary has only "King" and the English dictionary has Baron as synonym).
 
 * Kobold and Divine language generator:
   * Generates procedurally constructed Kobold and Divine language sentences.
