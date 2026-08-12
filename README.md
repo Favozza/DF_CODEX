@@ -42,7 +42,7 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
 
 ## NEW
   * Added copy/paste context menu
-  * Now the clipboard (i.e. the copied text) is erased when the tool is turned off
+  * Now the clipboard (i.e. the copied text) is NOT erased when the tool is turned off
 
 ## About the Translation System
 
