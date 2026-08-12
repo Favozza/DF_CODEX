@@ -40,6 +40,10 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
   * Based on the official DF structured construction rules.
   * Adjustable sentence length.
 
+## NEW
+  * Added copy/paste context menu
+  * Now the clipboard (i.e. the copied text) is erased when the tool is turned off
+
 ## About the Translation System
 
 DF Translator intentionally uses the same limited vocabulary available in Dwarf Fortress. This means:
