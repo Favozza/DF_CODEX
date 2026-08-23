@@ -115,12 +115,12 @@ Zimesh Osmanomep Geso Gogol Zitha Disem
 ## Platform Support
 
 * **Windows:** Download `DF_CODEX_Windows.exe` from the releases page and double-click it.
+* **macOS:** Download `DF_CODEX_MacOS.zip` from the releases page, unzip it to get the `df_codex.app` bundle, and move it to your Applications folder. (Note: Because the app is unsigned, you may need to right-click the app and select **Open** the first time you run it).
 * **Linux:** Download the `DF_CODEX_Linux` binary (built via GitHub Actions). Make sure to give it execution permissions before running:
 
 ```bash
 chmod +x DF_CODEX_Linux
 ./DF_CODEX_Linux
-```
 
 ## Feedback and Bug Reports
 
