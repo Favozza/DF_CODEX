@@ -121,6 +121,7 @@ Zimesh Osmanomep Geso Gogol Zitha Disem
 ```bash
 chmod +x DF_CODEX_Linux
 ./DF_CODEX_Linux
+```
 
 ## Feedback and Bug Reports
 
