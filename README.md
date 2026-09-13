@@ -10,13 +10,15 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
 
 ## Features
 
-* Translate between **English** and Dwarf Fortress languages:
+* Complete dictionary of the 4 official Dwarf Fortress languages:
   * Dwarven
   * Elven
   * Goblin
   * Human
 
-* Translate between fantasy languages directly.
+* Translate between **English** and Dwarf Fortress languages.
+
+* Translate between Dwarf Fortress languages directly.
 
 * Red words in the input were words not present in the dictionary and thus not translated.
 
@@ -33,6 +35,8 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
   * Synonyms
   * Autocomplete for special characters and uncommon words
 
+* Find words in the **Dictionary** section
+
 * Translate with two modes: **Canon** and **Relaxed**
   * **Canon** translates the words as they are found, including their conjugations and plurals. It is stricter and finds fewer words. Some words may be directly translated without the correct paraphrases  (e.g. "will" translated as "will" as "the will of the king" and not as "the king will be in the fortress", or "just" translated as "just" as "a just king" and not as "just in time")
   * **Relaxed** translates using a synonym dictionary and allows switching between English and American English. It finds more words, but some translations may be misleading (e.g., "Baron" translated as "King" because DF dictionary has only "King" and the English dictionary has Baron as synonym).
@@ -42,10 +46,7 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
   * Based on the official DF structured construction rules.
   * Adjustable sentence length.
 
-## NEW
-  * Added copy/paste context menu
-  * Now the clipboard (i.e. the copied text) is NOT erased when the tool is turned off
-  * Added the Rhyme Dictionary!
+* Look for rhymes of different length in the Rhyme Dictionary.
 
 ## About the Translation System
 
@@ -130,6 +131,10 @@ chmod +x DF_CODEX_Linux
 DF Translator is actively tested, but bugs may still exist.
 
 If you find an issue, have a suggestion, or want to provide constructive feedback, please open an issue in this repository.
+
+## Open new branches
+
+Contact me to start working on your own branch of this tool
 
 ## Final Remark
 
