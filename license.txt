@@ -1,0 +1,72 @@
+MIT License
+
+Copyright (c) 2026 Favozza
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+THIRD-PARTY COMPONENTS, DATASETS, AND ASSETS NOTICES
+================================================================================
+
+This repository contains or interacts with third-party datasets, linguistic structures, 
+and game assets that are governed by their respective owners' distinct terms, copyrights, 
+and licensing frameworks. These materials are included strictly for parsing, analysis, 
+utility development, and educational purposes.
+
+--------------------------------------------------------------------------------
+1. DWARF FORTRESS LANGUAGE DATA FILES (language_*.txt)
+--------------------------------------------------------------------------------
+- Assets: language_DWARF.txt, language_ELF.txt, language_GOBLIN.txt, language_HUMAN.txt, 
+  and associated standard vocabulary/lexicon files.
+- Creators & Copyright Holders: Tarn Adams and Zach Adams (Bay 12 Games).
+- Ownership & Rights: 
+  Dwarf Fortress is a trademark of Bay 12 Games. All official game data, raw files, 
+  translations, tokens, and underlying creative assets are the intellectual property 
+  of Bay 12 Games. 
+- Usage Context: 
+  These files are utilized within this repository solely as reference inputs for text
+  exploration tools.  No claim of ownership or commercial endorsement over Bay 12 Games
+  intellectual property is expressed or implied. For more information regarding Dwarf
+  Fortress, please visit the official website: https://www.bay12games.com/dwarves/
+
+--------------------------------------------------------------------------------
+2. WORDNET LEXICAL DATABASE (synonyms.txt.gz)
+--------------------------------------------------------------------------------
+- Asset: synonyms.txt.gz (derived from WordNet synsets and lexical maps).
+- Creator & Copyright Holder: Princeton University.
+- Copyright Notice: 
+  WordNet Release 3.0 Copyright 2006 by Princeton University. All rights reserved.
+- License Terms: 
+  This software and database is provided by Princeton University under the following terms:
+  Permission to use, copy, modify and distribute this software and database and its 
+  documentation for any purpose and without fee or royalty is hereby granted, provided 
+  that the copyright notice and disclaimers appear on all copies of the software, 
+  database, and documentation, including modifications made for internal use or distribution.
+- Disclaimer of Warranty: 
+  THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON UNIVERSITY MAKES NO 
+  REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF EXAMPLE, BUT NOT 
+  LIMITATION, PRINCETON UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF 
+  MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE 
+  LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY 
+  PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+- Attribution Restriction: 
+  The name of Princeton University or Princeton may not be used in advertising or 
+  publicity pertaining to distribution of the software and/or database without prior 
+  written permission. Title to copyright in this software, database, and any associated 
+  documentation shall at all times remain with Princeton University.
