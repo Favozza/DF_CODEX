@@ -20,7 +20,7 @@ Ever wanted your **songs**, **artifacts**, or **legendary historical figures** t
 
 * Translate between Dwarf Fortress languages directly.
 
-* Red words in the input were words not present in the dictionary and thus not translated.
+* Red words in the input are words not present in the dictionary and thus not translated.
 
 * Uses the **original in-game dictionaries**, preserving Dwarf Fortress' own limitations and style.
 
