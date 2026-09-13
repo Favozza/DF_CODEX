@@ -139,3 +139,10 @@ Contact me to start working on your own branch of this tool
 ## Final Remark
 
 Enjoy creating songs, poems, names, and stories in the languages of Dwarf Fortress!
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Third-Party Components & Data Notice:
+* Dwarf Fortress Language Data Files (language_*.txt): Created by Tarn and Zach Adams (Bay 12 Games). Used for translation and vocabulary mapping. All official rights to Dwarf Fortress content belong to Bay 12 Games.
+* WordNet Dataset (synonyms.txt.gz): Derived from WordNet Release 3.0, Copyright 2006 by Princeton University. Used under Princeton's open dataset terms (provided "AS IS" without fee or royalty).
