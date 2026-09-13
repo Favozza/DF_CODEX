@@ -4,8 +4,9 @@ A small dictionary-based translation tool for **Dwarf Fortress** languages.
 
 Ever wanted your **songs**, **artifacts**, or **legendary historical figures** to actually sound like they came from the race they belong to? **DF CODEX** allows you to translate text between English and the languages of Dwarf Fortress or even between the fantasy languages themselves.
 
-<img src="assets/01.png" width="300" alt="DF Translator Screenshot"> <img src="assets/02.png" width="300" alt="DF Translator Screenshot"> <img src="assets/03.png" width="300" alt="DF Translator Screenshot">
-<img src="assets/04.png" width="300" alt="DF Translator Screenshot"> <img src="assets/05.png" width="300" alt="DF Translator Screenshot"> <img src="assets/06.png" width="300" alt="DF Translator Screenshot">
+<img src="assets/01.png" width="450" alt="DF Translator Screenshot"> <img src="assets/02.png" width="450" alt="DF Translator Screenshot">
+<img src="assets/03.png" width="450" alt="DF Translator Screenshot"> <img src="assets/04.png" width="450" alt="DF Translator Screenshot">
+<img src="assets/05.png" width="450" alt="DF Translator Screenshot"> <img src="assets/06.png" width="450" alt="DF Translator Screenshot">
 
 ## Features
 
